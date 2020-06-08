@@ -1,0 +1,17 @@
+F:\TestDotnet\LTCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\TestDotnet\LTCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\TestDotnet\LTCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\TestDotnet\LTCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\TestDotnet\LTCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\TestDotnet\LTCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
