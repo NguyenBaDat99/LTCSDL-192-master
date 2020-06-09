@@ -6,7 +6,7 @@ namespace LTCSDL.Common.Req
 {
     public class BetweenDateReq
     {
-        public string NgayBatDau { get; set; }
-        public string NgayKetThuc { get; set; }
+        public string begin { get; set; }
+        public string end { get; set; }
     }
 }

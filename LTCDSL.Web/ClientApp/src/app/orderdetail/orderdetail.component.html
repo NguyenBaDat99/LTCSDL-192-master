@@ -1,0 +1,26 @@
+<h1 id="tableLabel">Orders</h1>
+
+<input  type="number" id="id"/>
+
+<button class="btn-info" (click)="submit()">Submit</button>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="dsDonHang">
+  <thead>
+    <tr>
+      <th>orderID</th>
+      <th>productId</th>
+      <th>unitPrice</th>
+      <th>quantity</th>
+      <th>discount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of dsDonHang">
+      <td>{{ item.orderId }}</td>
+      <td>{{ item.productId }}</td>
+      <td>{{ item.unitPrice }}</td>
+      <td>{{ item.quantity }}</td>
+      <td>{{ item.discount }}</td>
+    </tr>
+  </tbody>
+</table>
