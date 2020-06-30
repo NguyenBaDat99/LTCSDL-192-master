@@ -1,0 +1,9 @@
+
+*.config
+*.json
+*.dll
+*.pdb
+.vs/LTCSDL/v16/.suo
+*.v2
+*.cache
+*.props
