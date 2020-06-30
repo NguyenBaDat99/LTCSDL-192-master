@@ -8,5 +8,6 @@ namespace LTCSDL.Common.Req
     {
         public DateTime NgayBatDau { get; set; }
         public DateTime NgayKetThuc { get; set; }
+        
     }
 }
